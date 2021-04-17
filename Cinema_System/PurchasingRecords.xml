@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Records>
+	<Record Date="2017.05.28">
+	<Ticket Col="1" FilmID="3" FilmName="KONG. SKULL ISLAND" Price="13.6" Row="D" ScreenName="1" TicketType="Student" Time="15.30"/></Record>
+<Record Date="2018.11.05"><Ticket Col="3" FilmID="5" FilmName="MOONLIGHT" Price="16.0" Row="C" ScreenName="2" TicketType="Adult" Time="18.00"/><Ticket Col="4" FilmID="5" FilmName="MOONLIGHT" Price="12.8" Row="C" ScreenName="2" TicketType="Senior" Time="18.00"/></Record></Records>

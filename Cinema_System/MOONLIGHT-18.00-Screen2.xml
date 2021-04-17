@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Screens>
+	
+	<screen screenName="2">
+	<row No="A">
+		<col state="0"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="0"/></row>
+	<row No="B">
+		<col state="0"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="0"/></row>
+	<row No="C">
+		<col state="0"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="-1"/>
+		<col state="-1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="0"/></row>
+	<row No="D">
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/>
+		<col state="1"/></row></screen>
+	
+</Screens>

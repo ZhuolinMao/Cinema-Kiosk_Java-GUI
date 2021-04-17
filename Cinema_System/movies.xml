@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<movieStore>
+	<movies id="1">
+		<Name>LOGAN</Name>
+		<TimeLength>112</TimeLength>
+		<imagSrc>./LOGAN.jpg</imagSrc>
+	</movies>
+	<movies id="2">
+		<Name>LA LA LAND</Name>
+		<TimeLength>120</TimeLength>
+		<imagSrc>./LAND.jpg</imagSrc>
+	</movies>
+	<movies id="3">
+		<Name>KONG. SKULL ISLAND</Name>
+		<TimeLength>118</TimeLength>
+		<imagSrc>./KONG.jpg</imagSrc>
+	</movies>
+	<movies id="4">
+	    <Name>BEAUTY AND THE BEAST</Name>
+		<TimeLength>130</TimeLength>
+		<imagSrc>./BEAUTY AND THE BEAST.jpg</imagSrc>
+	</movies>
+	<movies id="5">
+	    <Name>MOONLIGHT</Name>
+		<TimeLength>111</TimeLength>
+		<imagSrc>./MOONLIGHT.jpg</imagSrc>
+	</movies>
+</movieStore>

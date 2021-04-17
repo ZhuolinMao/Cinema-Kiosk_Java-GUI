@@ -1,0 +1,12 @@
+********Movie Ticket********
+***Welcome to the Cinema!***
+Name: MOONLIGHT
+TimeLength: 111
+Screen 2
+Seat: Row C, Colomn 3
+Time: 18.00
+Ticket Type: Adult
+Price: 16.0 GBP
+Ticket ID: 43221411
+*PAY ATTENTION TO YOUR TIME*
+****************************

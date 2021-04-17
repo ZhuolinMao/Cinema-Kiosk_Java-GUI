@@ -1,0 +1,12 @@
+********Movie Ticket********
+***Welcome to the Cinema!***
+Name: MOONLIGHT
+TimeLength: 111
+Screen 2
+Seat: Row C, Colomn 4
+Time: 18.00
+Ticket Type: Senior
+Price: 12.8 GBP
+Ticket ID: 23141313
+*PAY ATTENTION TO YOUR TIME*
+****************************

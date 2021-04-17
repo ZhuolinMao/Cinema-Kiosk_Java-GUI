@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeTable>
+	<movie id="1">
+		<name name="LOGAN">
+			<play time="15.30" screen="3"></play>
+			<play time="18.00" screen="3"></play>
+		</name>
+	</movie>
+	<movie id="2">
+		<name name="LA LA LAND">
+			<play time="10.30" screen="2"></play>
+			<play time="13.00" screen="2"></play>
+		</name>
+	</movie>
+	<movie id="3">
+	    <name name="KONG. SKULL ISLAND">
+		   <play time="15.30" screen="1"></play>
+		   <play time="18.30" screen="1"></play>	   
+		   <play time="20.00" screen="2"></play>
+		   <play time="20.30" screen="3"></play>
+		   <play time="21.00" screen="1"></play>   
+		</name>
+	</movie>
+	<movie id="5">
+	    <name name="MOONLIGHT">
+		   <play time="16.00" screen="2"></play>
+		   <play time="18.00" screen="2"></play>
+		</name>
+    </movie>		
+	<movie id="4">
+	    <name name="BEAUTY AND THE BEAST">
+		   <play time="10.00" screen="1"></play>
+		   <play time="10.30" screen="3"></play>
+		   <play time="12.30" screen="1"></play>
+		   <play time="13.00" screen="3"></play>
+		</name>
+	</movie>	
+</TimeTable>
